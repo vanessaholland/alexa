@@ -256,250 +256,85 @@ module.exports = {
     ],
     "QUESTIONS_EN_US" : [
         {
-            "Reindeer have very thick coats, how many hairs per square inch do they have?": [
-                "13,000",
-                "1,200",
-                "5,000",
-                "700",
-                "1,000",
-                "120,000"
+            "When are your children covered in germs?": [
+                "This is a trick question they are always covered in germs",
+                "After school",
+                "After playing outside",
+                "While coughing",
+                "If they have picked up found candy in the parking lot and eaten it"
             ]
         },
         {
-            "The 1964 classic Rudolph The Red Nosed Reindeer was filmed in. ": [
-                "Japan",
-                "United States",
-                "Finland",
-                "Germany",
-                "Canada",
-                "Norway",
-                "France"
+          "What is the scariest part of being a parent?": [
+             "When you wake up to them standing silently next to your bed at three in the morning",
+             "When they get hurt",
+             "When they get sick",
+             "When they get lost for a second in the grocery store",
+             "When they ask where babies come from"
+         ]
+        },
+        {
+          "What is the favorite food of most kids?": [
+             "Anything other than what you made for dinner loser",
+             "Macaroni and cheese",
+             "Chicken nuggets",
+             "Candy"
+         ]
+        },
+        {
+          "What is the average number of questions a child asks in a single day?": [
+              "300",
+              "57",
+              "150",
+              "10,000"
+          ]
+        },
+        {
+          "What time of day do most kids need help?": [
+              "As soon as mom closes the bathroom door",
+              "Evening",
+              "Afternoon",
+              "Morning"
+          ]
+        },
+        {
+          "Which of the following do kids like best? ": [
+                "Leaving small legos in the hallway like an urban mine field",
+                "Picking up after themselves",
+                "Playing quietly while a sibling is sleeping",
+                "Helping mom make dinner"
             ]
         },
         {
-            "Santas reindeer are cared for by one of the Christmas elves, what is his name?": [
-                "Wunorse Openslae",
-                "Alabaster Snowball",
-                "Bushy Evergreen",
-                "Pepper Minstix"
+            "Most kids need this as soon as they are tucked into bed. ": [
+                "Anything at all that will allow them to stay up",
+                "A cup of water",
+                "A snack",
+                "Another story"
             ]
         },
         {
-            "If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be": [
-                "Girls",
-                "Boys",
-                "Girls and boys",
-                "No way to tell"
+            "If your child has ten legos, and you pick up all ten how many will you step on in the middle of the night? ": [
+                "There is always a lego in the floor, this is known",
+                "Zero",
+                "Ziltch",
+                "None"
             ]
         },
         {
-            "What do Reindeer eat?": [
-                "Lichen",
-                "Grasses",
-                "Leaves",
-                "Berries"
+            "Which of the following can trigger a temper trantrum?": [
+                "Anything",
+                "When a sibling takes away a toy",
+                "Mom closing the bathroom door",
+                "Forcing your child to wear pants to daycare"
             ]
         },
         {
-            "What of the following is not true?": [
-                "Caribou live on all continents",
-                "Both reindeer and Caribou are the same species",
-                "Caribou are bigger than reindeer",
-                "Reindeer live in Scandinavia and Russia"
-            ]
-        },
-        {
-            "In what year did Rudolph make his television debut?": [
-                "1964",
-                "1979",
-                "2000",
-                "1956"
-            ]
-        },
-        {
-            "Who was the voice of Rudolph in the 1964 classic?": [
-                "Billie Mae Richards",
-                "Burl Ives",
-                "Paul Soles",
-                "Lady Gaga"
-            ]
-        },
-        {
-            "In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?": [
-                "Montgomery Ward",
-                "Sears",
-                "Macys",
-                "Kmart"
-            ]
-        },
-        {
-            "Santa\'s reindeer named Donner was originally named what?": [
-                "Dunder",
-                "Donny",
-                "Dweedle",
-                "Dreamy"
-            ]
-        },
-        {
-            "Who invented the story of Rudolph?": [
-                "Robert May",
-                "Johnny Marks",
-                "Santa",
-                "J.K. Rowling"
-            ]
-        },
-        {
-            "In what location will you not find reindeer?": [
-                "North Pole",
-                "Lapland",
-                "Korvatunturi mountain",
-                "Finland"
-            ]
-        },
-        {
-            "What Makes Santa\'s Reindeer Fly?": [
-                "Magical Reindeer Dust",
-                "Fusion",
-                "Amanita muscaria",
-                "Elves"
-            ]
-        },
-        {
-            "Including Rudolph, how many reindeer hooves are there?": [
-                "36",
-                "24",
-                "16",
-                "8"
-            ]
-        },
-        {
-            "Santa only has one female reindeer. Which one is it?": [
-                "Vixen",
-                "Clarice",
-                "Cupid",
-                "Cupid"
-            ]
-        },
-        {
-            "In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?": [
-                "Sam",
-                "Frosty",
-                "Burl",
-                "Snowy"
-            ]
-        },
-        {
-            "What was Rudolph\'s father\'s name?": [
-                "Donner",
-                "Dasher",
-                "Blixen",
-                "Comet"
-            ]
-        },
-        {
-            "In the 1964 movie, What was the name of the coach of the Reindeer Games?": [
-                "Comet",
-                "Blixen",
-                "Donner",
-                "Dasher"
-            ]
-        },
-        {
-            "In the 1964 movie, what is the name of the deer that Rudolph befriends at the reindeer games?": [
-                "Fireball",
-                "Clarice",
-                "Jumper",
-                "Vixen"
-            ]
-        },
-        {
-            "In the 1964 movie, How did Donner, Rudolph\'s father, try to hide Rudolph\'s nose?": [
-                "Black mud",
-                "Bag",
-                "Pillow case",
-                "Sock"
-            ]
-        },
-        {
-            "In the 1964 movie, what does the Misfit Elf want to be instead of a Santa Elf?": [
-                "Dentist",
-                "Reindeer",
-                "Toy maker",
-                "Candlestick maker"
-            ]
-        },
-        {
-            "In the 1964 movie,what was the Bumble\'s one weakness?": [
-                "Could not swim",
-                "Always hungry",
-                "Candy canes",
-                "Cross eyed"
-            ]
-        },
-        {
-            "In the 1964 movie, what is Yukon Cornelius really in search of?": [
-                "Peppermint",
-                "Gold",
-                "India",
-                "Polar Bears"
-            ]
-        },
-        {
-            "In the 1964 movie, why is the train on the Island of Misfit Toys?": [
-                "Square wheels",
-                "No Engine",
-                "Paint does not match",
-                "It does not toot"
-            ]
-        },
-        {
-            "In the 1964 movie, what is the name of the Jack in the Box?": [
-                "Charlie",
-                "Sam",
-                "Billy",
-                "Jack"
-            ]
-        },
-        {
-            "In the 1964 movie, why did Santa Claus almost cancel Christmas?": [
-                "Storm",
-                "No snow",
-                "No toys",
-                "The Reindeer were sick"
-            ]
-        },
-        {
-            "In the 1964 movie, what animal noise did the elf make to distract the Bumble?": [
-                "Oink",
-                "Growl",
-                "Bark",
-                "Meow"
-            ]
-        },
-        {
-            "In the 1964 movie, what is the name of the prospector?": [
-                "Yukon Cornelius",
-                "Slider Sam",
-                "Bumble",
-                "Jack"
-            ]
-        },
-        {
-            "How far do reindeer travel when they migrate?": [
-                "3000 miles",
-                "700 miles",
-                "500 miles",
-                "0 miles"
-            ]
-        },
-        {
-            "How fast can a reindeer run?": [
-                "48 miles per hour",
-                "17 miles per hour",
-                "19 miles per hour",
-                "14 miles per hour",
-                "52 miles per hour",
-                "41 miles per hour"
+            "What snack is acceptable to hide from your kids while eating?": [
+                "Their left over Halloween candy",
+                "An apple",
+                "Cheese stick",
+                "Yogurt"
             ]
         }
     ],
